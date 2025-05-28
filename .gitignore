@@ -1,0 +1,17 @@
+# Environnement virtuel
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers IDE / système
+.DS_Store
+.idea/
+.vscode/
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
