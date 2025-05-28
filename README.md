@@ -1,5 +1,11 @@
 # Flask File Downloader
 
+![GitHub repo size](https://img.shields.io/github/repo-size/SOLARIS-bit/flask-file-downloader)
+![Docker Image Size](https://img.shields.io/docker/image-size/library/python/latest)
+![GitHub last commit](https://img.shields.io/github/last-commit/SOLARIS-bit/flask-file-downloader)
+![GitHub issues](https://img.shields.io/github/issues/SOLARIS-bit/flask-file-downloader)
+![GitHub license](https://img.shields.io/github/license/SOLARIS-bit/flask-file-downloader)
+
 Une application web simple qui permet de :
 
 - Naviguer dans un répertoire de fichiers
