@@ -42,7 +42,8 @@ L'application permet d'afficher tous les fichiers présents dans le dossier `dat
 ## 🧪 Tests
 Lance les tests unitaires avec :
     ```bash
-   pytest
+    pytest
+    ```
 
 ## 📁 Structure
 
