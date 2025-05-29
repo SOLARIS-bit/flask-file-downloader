@@ -39,12 +39,10 @@ L'application permet d'afficher tous les fichiers présents dans le dossier `dat
 
 - Accès via `http://localhost:5000`
 
-## 🧪 Tests
-Lance les tests unitaires avec :
-    ```bash
-    pytest
-    ```
-
+## 🧪 Tests unitaires avec :
+  ```bash
+  pytest
+  ```
 ## 📁 Structure
 
 flask-file-downloader/
