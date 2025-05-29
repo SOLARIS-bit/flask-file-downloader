@@ -32,16 +32,17 @@ L'application permet d'afficher tous les fichiers présents dans le dossier `dat
 | POST    | `/api/upload`             | Upload un fichier                           |
 
 ## 🚀 Démarrage rapide avec Docker
+   ```bash
+   docker build -t flask-file-downloader .
+   docker run -d -p 5000:5000 flask-file-downloader
+   ```
 
-docker build -t flask-file-downloader .
-docker run -d -p 5000:5000 flask-file-downloader
-
-Accès via `http://localhost:5000`
+- Accès via `http://localhost:5000`
 
 ## 🧪 Tests
 Lance les tests unitaires avec :
-
-pytest
+    ```bash
+   pytest
 
 ## 📁 Structure
 
@@ -64,4 +65,4 @@ flask-file-downloader/
 
 ### 🤝 Auteur
 SOLARIS-bit
-Projet Flask personnel — Docker + API + Interface web simple
+# Projet Flask personnel — Docker + API + Interface web simple
